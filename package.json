@@ -9,7 +9,7 @@
     "build": "webpack",
     "dev": "webpack --mode development",
     "lint": "eslint .",
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",
